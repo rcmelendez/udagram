@@ -1,0 +1,14 @@
+[
+    {
+    "ParameterKey": "EnvironmentName",
+    "ParameterValue": "Udagram"
+    },
+    {
+    "ParameterKey": "HTTPProtocol",
+    "ParameterValue": "http://"
+    },
+    {
+    "ParameterKey": "ApplicationS3Bucket",
+    "ParameterValue": "udacity-roberto"
+    }
+]

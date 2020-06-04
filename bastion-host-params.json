@@ -1,0 +1,18 @@
+[
+    {
+    "ParameterKey": "EnvironmentName",
+    "ParameterValue": "Udagram"
+    },
+    {
+    "ParameterKey": "NetworkAccessIP",
+    "ParameterValue": "128.31.0.50/32"
+    },
+    {
+    "ParameterKey": "BastionHostSSHS3Bucket",
+    "ParameterValue": "bastion-roberto"
+    },
+    {
+    "ParameterKey": "BastionHostSSHKeyName",
+    "ParameterValue": "roberto-ssh"
+    }
+]
